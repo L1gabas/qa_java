@@ -1,4 +1,4 @@
-package Tests;
+package com.example.tests;
 
 import com.example.Cat;
 import com.example.Feline;
